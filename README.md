@@ -29,12 +29,14 @@
     <td><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"></td>
     <td><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"></td>
     <td><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot" height="50"></td>
   </tr>
   <tr>
     <td style="text-align:center;"><strong>10%</strong></td>
     <td style="text-align:center;"><strong> 5%</strong></td>
-    <td style="text-align:center;"><strong>15%</strong></td>
+    <td style="text-align:center;"><strong>20%</strong></td>
     <td style="text-align:center;"><strong>30%</strong></td>
+    <td style="text-align:center;"><strong>15%</strong></td>
   </tr>
 </table>
 </div>
