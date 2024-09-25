@@ -34,7 +34,7 @@
   <tr>
     <td style="text-align:center;"><strong>10%</strong></td>
     <td style="text-align:center;"><strong> 5%</strong></td>
-    <td style="text-align:center;"><strong>20%</strong></td>
+    <td style="text-align:center;"><strong>30%</strong></td>
     <td style="text-align:center;"><strong>30%</strong></td>
     <td style="text-align:center;"><strong>15%</strong></td>
   </tr>
